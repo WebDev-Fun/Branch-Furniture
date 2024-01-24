@@ -55,9 +55,9 @@ link- <link rel="preconnect" href="https://fonts.googleapis.com">
 
 "quicksand"-for all remaining text
 400,700
-link- <link rel="preconnect" href="https://fonts.googleapis.com">
+link-<link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Frank+Ruhl+Libre:wght@300;400;500;600;700;800&family=Open+Sans&family=Quicksand:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Quicksand:wght@300;400;500;600;700&display=swap" rel="stylesheet">
 
 #### Headings, Call-to-actions, Header Navigation
 
