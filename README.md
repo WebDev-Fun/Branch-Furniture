@@ -21,21 +21,33 @@ The designs were created to the following widths:
 
 ### Accent
 
-/* - Bright Blue: hsl(224, 93%, 58%) */
+- Light gary: hsl(135, 5%, 70%)
 
+- Tan: hsl(30, 20%, 94%) container color
+
+- Light gray: hsl(30, 10%, 84%) border color
+
+- border color: hsl(140, 4%, 87%) 
 
 ### Neutral
 
-/ - Light Grayish Blue: hsl(240, 75%, 98%)
+- Tan: hsl(11, 54%, 40%) container  color
 
 
 ## Typography
+## Font Colors
+- dark green: hsl(142, 16%, 23%)
+- sky blue: hsl(196, 43%, 69%)
+- Light gray: hsl(30, 10%, 84%)
+- Light gray: hsl(135, 2%, 60%)
 
 ### Body Copy
 
 - Font size (paragraph): 16px
 
 ### Fonts
+"Frank Ruhl Libre" - for all headings
+"quicksand"-for all remaining text
 
 #### Headings, Call-to-actions, Header Navigation
 
