@@ -68,3 +68,14 @@ link- <link rel="preconnect" href="https://fonts.googleapis.com">
 /- Family:[Quicksand](https://fonts.google.com/?query=Quicksand)
 /- Family: [Open Sans](https://fonts.google.com/specimen/Open+Sans)
 /- Weights: 400
+
+
+## Media Query 
+
+- for phone layout - 600px and less
+
+- for tablet layout - between 600-900px
+
+- and for desktop we will use 900+px onwards 
+
+(these three will be our main media querys for the project)
