@@ -45,7 +45,9 @@ The designs were created to the following widths:
 
 ### Fonts
 "Frank Ruhl Libre" - for all headings
+400,700
 "quicksand"-for all remaining text
+400,700
 
 #### Headings, Call-to-actions, Header Navigation
 
