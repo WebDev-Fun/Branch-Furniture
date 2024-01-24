@@ -27,6 +27,8 @@ The designs were created to the following widths:
 
 - Light gray: hsl(30, 10%, 84%) border color
 
+- border color: hsl(140, 4%, 87%) 
+
 ### Neutral
 
 - Tan: hsl(11, 54%, 40%) container  color
@@ -51,11 +53,10 @@ The designs were created to the following widths:
 
 #### Headings, Call-to-actions, Header Navigation
 
-/ - Family: [Raleway](https://fonts.google.com/specimen/Raleway)
+/ - Family: [Frank Ruhl Libre](https://fonts.google.com/?query=Frank+Ruhl+Libre)
 / - Weights: 400, 700
- above font is the example add just like this for our project 
 
 #### Body
-
+/- Family:[Quicksand](https://fonts.google.com/?query=Quicksand)
 /- Family: [Open Sans](https://fonts.google.com/specimen/Open+Sans)
 /- Weights: 400
