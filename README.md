@@ -37,6 +37,7 @@ The designs were created to the following widths:
 - dark green: hsl(142, 16%, 23%)
 - sky blue: hsl(196, 43%, 69%)
 - Light gray: hsl(30, 10%, 84%)
+- Light gray: hsl(135, 2%, 60%)
 
 ### Body Copy
 
