@@ -16,7 +16,7 @@ The designs were created to the following widths:
 
 ### Primary
 
-/* - Very Dark Blue: hsl(243, 87%, 12%) */
+- Dark Green: hsl(142, 16%, 23%)
 
 
 ### Accent
