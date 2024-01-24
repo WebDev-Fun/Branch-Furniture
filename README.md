@@ -63,7 +63,17 @@ The designs were created to the following widths:
 
 ### Fonts
 "Frank Ruhl Libre" - for all headings
+400,700
+link- <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Frank+Ruhl+Libre:wght@300;400;500;600;700;800&family=Open+Sans&display=swap" rel="stylesheet">
+
+
 "quicksand"-for all remaining text
+400,700
+link-<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Quicksand:wght@300;400;500;600;700&display=swap" rel="stylesheet">
 
 #### Headings, Call-to-actions, Header Navigation
 
@@ -74,3 +84,14 @@ The designs were created to the following widths:
 /- Family:[Quicksand](https://fonts.google.com/?query=Quicksand)
 /- Family: [Open Sans](https://fonts.google.com/specimen/Open+Sans)
 /- Weights: 400
+
+
+## Media Query 
+
+- for phone layout - 600px and less
+
+- for tablet layout - between 600-900px
+
+- and for desktop we will use 900+px onwards 
+
+(these three will be our main media querys for the project)
