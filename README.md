@@ -21,15 +21,22 @@ The designs were created to the following widths:
 
 ### Accent
 
-/* - Bright Blue: hsl(224, 93%, 58%) */
+- Light gary: hsl(135, 5%, 70%)
 
+- Tan: hsl(30, 20%, 94%) container color
+
+- Light gray: hsl(30, 10%, 84%) border color
 
 ### Neutral
 
-/ - Light Grayish Blue: hsl(240, 75%, 98%)
+- Tan: hsl(11, 54%, 40%) container  color
 
 
 ## Typography
+## Font Colors
+- dark green: hsl(142, 16%, 23%)
+- sky blue: hsl(196, 43%, 69%)
+- Light gray: hsl(30, 10%, 84%)
 
 ### Body Copy
 
