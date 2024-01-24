@@ -27,6 +27,8 @@ The designs were created to the following widths:
 
 - Light gray: hsl(30, 10%, 84%) border color
 
+- border color: hsl(140, 4%, 87%) 
+
 ### Neutral
 
 - Tan: hsl(11, 54%, 40%) container  color
