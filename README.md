@@ -29,10 +29,26 @@ The designs were created to the following widths:
 
 - border color: hsl(140, 4%, 87%) 
 
+
 ### Neutral
 
 - Tan: hsl(11, 54%, 40%) container  color
 
+## Main Page/landing Page
+
+- Main Green(background-color/color): hsl (142,0,0)
+
+- Home-office|Team-office(color) : hsl (196, 0,1) 
+
+- We do office furniture(background-color) : hsl (30, 0,1)
+
+- Deleivery Assembly(color) : hsl (250, 0,0)
+
+- Free Shipping(background-color) : hsl (11, 1,0)
+
+- Shop By(background-color) : hsl (27, 0,1)
+
+- Footer Heading(color) : hsl (120,0,1)
 
 ## Typography
 ## Font Colors
