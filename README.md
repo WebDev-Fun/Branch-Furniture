@@ -39,11 +39,10 @@ The designs were created to the following widths:
 
 #### Headings, Call-to-actions, Header Navigation
 
-/ - Family: [Raleway](https://fonts.google.com/specimen/Raleway)
+/ - Family: [Frank Ruhl Libre](https://fonts.google.com/?query=Frank+Ruhl+Libre)
 / - Weights: 400, 700
- above font is the example add just like this for our project 
 
 #### Body
-
+/- Family:[Quicksand](https://fonts.google.com/?query=Quicksand)
 /- Family: [Open Sans](https://fonts.google.com/specimen/Open+Sans)
 /- Weights: 400
