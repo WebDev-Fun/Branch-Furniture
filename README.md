@@ -46,6 +46,8 @@ The designs were created to the following widths:
 - Font size (paragraph): 16px
 
 ### Fonts
+"Frank Ruhl Libre" - for all headings
+"quicksand"-for all remaining text
 
 #### Headings, Call-to-actions, Header Navigation
 
