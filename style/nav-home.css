@@ -1,0 +1,17 @@
+.navbar-one{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-left: 2rem;
+    padding-right: 2rem;
+}
+
+.left-li-navbar-one{
+    display: flex;
+    gap: 1rem;
+    list-style: none;
+}
+
+.right-li-navbar-one{
+    list-style: none;
+}
