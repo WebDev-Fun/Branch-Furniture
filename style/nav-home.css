@@ -1,4 +1,4 @@
-.navbar-one{
+.nav-one-div{
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -6,12 +6,14 @@
     padding-right: 2rem;
 }
 
-.left-li-navbar-one{
+.nav-one-left-ul{
     display: flex;
     gap: 1rem;
     list-style: none;
 }
 
-.right-li-navbar-one{
+
+
+.nav-one-right-ul{
     list-style: none;
 }
